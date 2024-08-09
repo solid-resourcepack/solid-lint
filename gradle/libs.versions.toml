@@ -2,7 +2,7 @@
 kotlin = "1.9.20"
 kotlinCoroutines = "1.4.2"
 shadow = "8.1.1"
-solid = "1.0.9"
+solid = "1.0.10"
 paper = "1.21-R0.1-SNAPSHOT"
 creative = "1.7.3"
 sonatypeCentralPortalPublisher = "1.2.3"
